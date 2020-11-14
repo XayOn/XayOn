@@ -17,7 +17,6 @@ communications.
 <p align="center">
 <a href="https://linkedin.com/in/davidfrancos"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/davidfrancos"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href=""><img width="460" src=""></a>
 </p>
 
 <p align=center>
