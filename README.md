@@ -4,6 +4,17 @@
   </a>
 </p>
 
+Hi :wave:, I'm David Francos.
+
+- :telescope: I’m currently working at [SipayPlus](https://sipay.es).
+- :seedling: I’m currently learning 
+- :speech_balloon: Ask me about anything Python, APIs, cybersecurity and console interfaces!
+- :mailbox: How to reach me: `me at davidfrancos.net`
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=XayOn.XayOn)
+
+## :computer: Open Source Work Stats
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img  src="https://github-readme-stats.vercel.app/api?username=xayon&show_icons=true&hide_border=true" />
