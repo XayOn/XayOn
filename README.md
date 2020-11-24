@@ -8,9 +8,6 @@
 <br/>
 
 <a href="https://twitter.com/DavidFrancos" target="_blank" rel="nofollow"><img align="right" alt="David Francos's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/davidfrancos" target="_blank" rel="nofollow"><img align="right" alt="DavidFrancos's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/david.francos" target="_blank" rel="nofollow"><img align="right" alt="DavidFrancos'instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-
-
-
 ## Hi :wave:, I'm David Francos. ![visitors](https://visitor-badge.glitch.me/badge?page_id=XayOn.XayOn)
 
 - :telescope: I’m currently working at [SipayPlus](https://sipay.es).
