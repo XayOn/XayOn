@@ -12,7 +12,7 @@
 
 - :telescope: I’m currently working at [SipayPlus](https://sipay.es).
 - :speech_balloon: Ask me about anything Python, APIs, cybersecurity and console interfaces!
-- :mailbox: How to reach me: `opensource at davidfrancos.net`
+- :mailbox: How to reach me: `me at davidfrancos.net`
 - :collision: I'm interested in peer to peer communications, pentesting, multimedia and command line interfaces
 
 <p align=center>
