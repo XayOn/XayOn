@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://davidfrancos.net">
-    <img width="460" src="https://davidfrancos.net/theme/images/logo.png"/>
+    <img width="460" src="https://davidfrancos.net/images/logo.png"/>
   </a>
 </p>
 <br/>
