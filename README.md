@@ -35,4 +35,9 @@
 
 
 <!--START_SECTION:feed-->
+* [Advent of code - Día 3](https:&#x2F;&#x2F;davidfrancos.net&#x2F;post&#x2F;aoc-day-three&#x2F;)
+* [Advent of code - Día 2](https:&#x2F;&#x2F;davidfrancos.net&#x2F;post&#x2F;aoc-day-two&#x2F;)
+* [Advent of code - Día 1](https:&#x2F;&#x2F;davidfrancos.net&#x2F;post&#x2F;aoc-day-one&#x2F;)
+* [](https:&#x2F;&#x2F;davidfrancos.net&#x2F;archives&#x2F;)
+* [El lado bueno del &quot;ataque masivo&quot; con WCRY](https:&#x2F;&#x2F;davidfrancos.net&#x2F;post&#x2F;wanacry&#x2F;)
 <!--END_SECTION:feed-->
