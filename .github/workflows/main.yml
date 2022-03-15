@@ -16,4 +16,4 @@ jobs:
         with:
           feed-url: https://davidfrancos.net/index.xml
           readme-section: feed
-          branch: main
+          branch: master
